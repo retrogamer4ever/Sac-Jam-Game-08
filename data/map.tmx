@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="38" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="overworld" tilewidth="16" tileheight="16">
+  <image source="overworld.png" width="480" height="256"/>
+ </tileset>
+ <layer name="map" width="50" height="38">
+  <data encoding="base64" compression="zlib">
+   eJzt2bEJACAMBdGUzpxNsq2VINaCF7niDXD88mdE5CdGc3aw2MFiB4sdLHaw2MHStaPsQLGDxQ4WO1jsYLGDxQ4WO1jsYKlN545zl+4dix0sr3/JmybJJJRv
+  </data>
+ </layer>
+</map>
